@@ -8,4 +8,5 @@ A ready to use wireframe of a simple website with Signup and Login already integ
 2. open this app folder in terminal and type 
     `npm install`
 3. then run the command  ` node start`
+4. Your app should be running on `http://localhost:3001`
 
